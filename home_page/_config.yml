@@ -22,10 +22,10 @@ title: Formalisation of the Atiyah–Singer Index Theorem
 #email: your-email@example.com
 description: by Rudolf Zeidler and Christoph Stephan
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cstephanUP.github.io/atiyah-singer-index-theorem" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://geometry-potsdam.github.io/atiyah-singer-index-theorem" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
-github_username: cstephanUP
-repository: cstephanUP/atiyah-singer-index-theorem
+github_username: geometry-potsdam
+repository: geometry-potsdam/atiyah-singer-index-theorem
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0 
